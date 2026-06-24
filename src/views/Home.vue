@@ -1,7 +1,7 @@
 <template>
     <div id="align">
         <b-jumbotron id="fundo">
-            <h1 class="text-uppercase">to-do list</h1>
+            <h1 class="text-uppercase">to-do list hom nay toi chán quá</h1>
             <p>made by <a href="https://elroydev.tech">elroydevops</a></p>
         </b-jumbotron>
     </div>
